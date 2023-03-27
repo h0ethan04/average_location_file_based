@@ -14,7 +14,9 @@ file format:
 example file:
 
 center:
+
 9531 Bond Rd, Elk Grove, CA 95624
 
 location:
+
 9950 Elk Grove Florin Rd, Elk Grove, CA 95624
