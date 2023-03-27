@@ -12,7 +12,7 @@ file format:
 - valid addresses do not include suite or apt numbers
 
 example file:
-
+```
 center:
 
 9531 Bond Rd, Elk Grove, CA 95624
@@ -20,3 +20,4 @@ center:
 location:
 
 9950 Elk Grove Florin Rd, Elk Grove, CA 95624
+```
