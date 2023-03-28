@@ -11,7 +11,7 @@ to use:
 
 
 requirements:
-- requires Python 3.11 or newer to be installed on your device (https://www.python.org/downloads/)
+- ~~requires Python 3.11 or newer to be installed on your device (https://www.python.org/downloads/)~~ no longer a requirement because I bundled the files into an exe
 
 file format:
 - lines can either be blank, contain ONLY a valid address, contain ONLY the word "center" or contain ONLY the word "location" followed by a colon
