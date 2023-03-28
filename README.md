@@ -3,7 +3,7 @@ file based version of the average location calculator
 
 to use: 
 1. make sure you meet the requirements
-2. download and extract the files from the zip
+2. download and extract the files from the zip to get a version that doesn't require a Python installation (or download all files if you already have Python installed)
 3. make sure that you're connected to the internet
 4. create a txt file containing your center location and addresses, following the format described below
 5. place the txt file into the same directory as the .exe contained in this zip
